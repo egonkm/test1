@@ -1,2 +1,5 @@
 
-BRANCH2
+
+
+changed in branch 2
+BRANCH 2
